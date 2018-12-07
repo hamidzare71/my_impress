@@ -1,6 +1,10 @@
-this is my presentation about new technologies used instead of semiconductors and normal transistors,
-history of tubes like diods and triods,
-a little about other types of transistor like Quantum processing, Graphen transistors, Three dimensional chips, and Molecular, Protein, DNA types of transistors and benchmarking normal transistor and organic types.
-there are some videos, gif and photos. also there are some dead codes in js and css file, that'll be cleaned soon ;)
+My first presentation used #impress.js about before & future technologies instead of semiconductors and normal transistors, like
+Quantum, Three dimensional chip, DNA, Protein, Molecular types of Transistor.
+contains photo, gif and videos in 3D.
+there are some dead codes that'll be cleaned in future.
 
-تلگرام من: https://t.me/hamidzare71
+Firefox OK
+Chrome OK
+after clone/download, unzip and Run #hamid.html
+use shortcut: ESC(left side), J(overview both side), K(right side)
+تلگرام: https://t.me/hamidzare71
